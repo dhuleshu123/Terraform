@@ -1,4 +1,4 @@
-# Terraform Configurations (`mprashant-terraform-configs`)
+# Terraform Configurations
 
 A collection of Terraform configuration files, hands-on exercises, and mini-projects covering core Terraform concepts and AWS infrastructure provisioning.
 
